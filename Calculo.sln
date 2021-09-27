@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "servidor", "servidor", "{770D148C-31DD-4386-B378-81C50DB0C898}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cliente", "cliente", "{84CC98FB-0E95-4ACA-BF89-BB99676B466A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo_Areas", "Calculo_Areas\Calculo_Areas.csproj", "{C6BA9B60-BA05-448A-8043-2F0910F33338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BA9B60-BA05-448A-8043-2F0910F33338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BA9B60-BA05-448A-8043-2F0910F33338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BA9B60-BA05-448A-8043-2F0910F33338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BA9B60-BA05-448A-8043-2F0910F33338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B43B5EC-9252-462E-8C11-1BE1F27F31B5}
+	EndGlobalSection
+EndGlobal
